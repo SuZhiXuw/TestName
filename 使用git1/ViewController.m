@@ -21,6 +21,8 @@
     NSLog(@"%@",@"dsad");
     int i = 9;
     NSString * str;
+    
+    NSLog(@"4");
 }
 
 
